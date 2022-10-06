@@ -1,4 +1,4 @@
-# JavaScript-Practicals
+# Guess Game
 
 Link to the game(Console based):
 
